@@ -1,3 +1,5 @@
+[![CI](https://github.com/andresgranizo/petstore-karate/actions/workflows/ci.yml/badge.svg)](https://github.com/andresgranizo/petstore-karate/actions/workflows/ci.yml)
+
 # PetStore Karate Project
 
 This project is a test automation framework using [Karate] and Gradle to test the signup and login functionalities of the PetStore API.
