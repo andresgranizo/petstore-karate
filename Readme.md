@@ -102,7 +102,7 @@ After running the tests, you can view the test results in the generated HTML rep
 cd target/cucumber-html-reports
  ```
 
-2. Open the index.html file in a web browser to see the detailed test results.
+2. Open the overview-features.html file in a web browser to see the detailed test results.
 
 ```bash
 open overview-features.html  # macOS
