@@ -1,0 +1,22 @@
+{
+    "pets": [
+        {
+            "id": 15,
+            "name": "Jake",
+            "category": {
+                "id": 1,
+                "name": "Dogs"
+            },
+            "status": "available"
+        },
+        {
+            "id": 16,
+            "name": "Leo",
+            "category": {
+                "id": 1,
+                "name": "Dogs"
+            },
+            "status": "sold"
+        }
+    ]
+}
